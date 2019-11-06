@@ -14,18 +14,18 @@ class FootballPalyers
                         'club'                   => 'Juventus',
                         'place'                  => 'striker',
                         'jersey number'          => '7',
-                        'image'			 => 'C_Ronaldo.jpg',
+                        'image'			 => 'C_Ronaldo.png',
                         			
 		],
 		'2'	 => [
 			'id'			 => 2,
-			'name'			 => 'Cristiano Ronaldo',
+			'name'			 => 'Messi',
                         'age'                    => '32',
                         'country'                => 'Argentina',
                         'club'                   => 'Barcelona',
                         'place'                  => 'striker',
                         'jersey number'          => '10',
-                        'image'			 => 'Messi.jpg',
+                        'image'			 => 'Messi.png',
 		],
 		'3'	 => [
 			'id'			 => 3,
@@ -35,7 +35,7 @@ class FootballPalyers
                         'club'                   => 'Royal Spaniard',
                         'place'                  => 'striker',
                         'jersey number'          => '7',
-                        'image'			 => 'Wu_Lei.jpg',
+                        'image'			 => 'Wu_Lei.png',
 		],
 		'4'	 => [
 			'id'			 => 4,
@@ -45,7 +45,7 @@ class FootballPalyers
                         'club'                   => 'Real Madrid',
                         'place'                  => 'defender',
                         'jersey number'          => '12',
-                        'image'			 => 'Marcelo.jpg',
+                        'image'			 => 'Marcelo.png',
 		],
 		'5'	 => [
 			'id'			 => 5,
@@ -55,7 +55,7 @@ class FootballPalyers
                         'club'                   => 'Tottenham hotspur',
                         'place'                  => 'striker',
                         'jersey number'          => '7',
-                        'image'			 => 'Son.jpg',
+                        'image'			 => 'Son.png',
 		],
                 '6'	 => [
 			'id'			 => 6,
@@ -65,7 +65,7 @@ class FootballPalyers
                         'club'                   => 'Paris saint-germain',
                         'place'                  => 'striker',
                         'jersey number'          => '10',
-                        'image'			 => 'Neymar.jpg',
+                        'image'			 => 'Neymar.png',
 		],
 	];
 
